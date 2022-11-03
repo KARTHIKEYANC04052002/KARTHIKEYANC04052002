@@ -1,8 +1,8 @@
 ### Hi :wave:, I'm Karthikeyan!
 
 -  :mortar_board: I’m doing my bachelor's degree in **Computer Science and Engineering**.
--  :eyes: I'm interested in **Machine Learning**, **Artificial Intelligence** and **Data Science**.
--  :seedling: I’m currently learning **Machine Learning** and **Data Science**.
+-  :eyes: I'm interested in **Web Application**, **Machine Learning**, **Artificial Intelligence** and **Data Science**.
+-  :seedling: I’m currently learning **Web Application Development**.
 -  :mailbox: Reach me at ***[karthikeyan.c@sece.ac.in](mailto:karthikeyan.c@sece.ac.in)***.
 
 ### Connect with me:
